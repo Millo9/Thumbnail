@@ -9,4 +9,3 @@
     header('Content-Disposition: attachment;filename="thumbnail.jpg"');
     echo $downloadImg;
   }
-?>
